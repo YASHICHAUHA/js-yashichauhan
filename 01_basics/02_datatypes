@@ -1,0 +1,18 @@
+"use strict"; //treat all Js code as newer version 
+//alert(3+3)//we are using nodejs,not browser
+console.log(3+3)
+//code readability that should be high
+console.log("yashi")
+let name="hitesh"
+let age=18
+let isLoggedIn=false
+//number =>2 to power 53
+// bigint is used whenever numer is very large it is used in stock
+//string=""
+////boolean=>true/false
+//null=>standalone value ye khali h ismekoivalue nhi h
+//undefined=> var define ki hbut value assign nhi ki
+//symbol=> whenever we talk about uniqueness
+//object
+console.log(typeof null);// output will be object
+console.log(typeof undefined)//output will be undefined
